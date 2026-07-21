@@ -8,7 +8,7 @@ Open-source products for Zi Wei Dou Shu, AI-guided reflection, and Eastern arche
 | --- | --- | --- |
 | **Ziwei Chart** | Deterministic chart creation, true solar time correction, visual chart exploration, annual trends, compatibility, and life trajectory. | [Website](https://zwknows.vercel.app/) · [Source](https://github.com/ziweiknows/ziwei-chart) |
 | **Ziwei Chat** | Evidence-backed conversations about chart facts, real questions, and practical reflection. | [Website](https://ziweichat.vercel.app/) · [Source](https://github.com/ziweiknows/ziwei-chat) |
-| **ZATI** | Eastern archetype self-exploration through behavioral choices and sixteen personality archetypes. | [Source](https://github.com/ziweiknows/zati) |
+| **ZATI** | Eastern archetype self-exploration through behavioral choices and sixteen personality archetypes. | [Website](https://zati-kappa.vercel.app/) · [Source](https://github.com/ziweiknows/zati) |
 
 The three products are peers: choose the one that matches how you want to explore yourself today. They share a product family, not accounts, profiles, or personal data.
 
